@@ -25,6 +25,11 @@
                  {{ __('Partidos') }}
             </x-nav-link>
         </div>
+        <div class=" ml-6 mr-6">
+            <x-nav-link :href="route('info')" :active="request()->routeIs('info')">
+                 {{ __('Información') }}
+            </x-nav-link>
+        </div>
     </div>
 
     <div class="flex items-center space-x-2 ml-6"> 
