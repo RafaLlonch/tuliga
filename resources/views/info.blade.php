@@ -10,8 +10,9 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 bg-gray-50 border-b border-gray-200">
                     <p class="container text-justify mt-5">
-                        Página web para la gestión de una liga de fútbol. Ha sido creada con el framework de PHP Laravel con
-                        la versión 9.1 y con MySQL como base de datos. 
+                        Página web para la gestión de una liga de fútbol. Ha sido creada con el framework de PHP Laravel 
+                        con la versión 9.1 y con MySQL como base de datos. Para llenar los datos he utilizado la
+                        información de la primera división de la liga española.
                     </p> 
                     <p class="container text-justify mt-5">
                         Cuando un nuevo usuario se registra, se le asigna el rol de user, con el que sólo puede ver el listado de equipos, su descripción y el listado de 
